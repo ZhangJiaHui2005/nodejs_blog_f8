@@ -1,0 +1,31 @@
+{
+  "name": "hoc_express_f8",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "f8",
+    "blog"
+  ],
+  "homepage": "https://github.com/ZhangJiaHui2005/nodejs_blog_f8#readme",
+  "bugs": {
+    "url": "https://github.com/ZhangJiaHui2005/nodejs_blog_f8/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangJiaHui2005/nodejs_blog_f8.git"
+  },
+  "license": "ISC",
+  "author": "zhangjiahui",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
